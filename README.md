@@ -1,6 +1,6 @@
 # Wallpaper App
 
-🎥 Wallpaper app powered by pexels API.
+Wallpaper app powered by pexels API.
 
 
 ## API
