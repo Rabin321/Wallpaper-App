@@ -36,7 +36,10 @@ class _PutwallState extends State<Putwall> {
             ),
           ),
           InkWell(
-            onTap: () {},
+            onTap: () {
+              setwallpaper();
+              print('Wallpaper set');
+            },
             // child: Expanded(
             child: Container(
               height: 40,
@@ -47,7 +50,7 @@ class _PutwallState extends State<Putwall> {
                   'Set Wallpaper',
                   style: TextStyle(
                     color: Colors.white,
-                    fontSize: 14.0,
+                    fontSize: 18.0,
                   ),
                 ),
               ),

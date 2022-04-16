@@ -114,7 +114,7 @@ class _WallpaperState extends State<Wallpaper> {
                   'Load more...',
                   style: TextStyle(
                     color: Colors.white,
-                    fontSize: 14.0,
+                    fontSize: 18.0,
                   ),
                 ),
               ),
