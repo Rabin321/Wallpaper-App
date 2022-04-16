@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(brightness: Brightness.dark),
       // title: "Wow Wallpaper",
-      home: Wallpaper(),
+      home: const Wallpaper(),
     );
   }
 }
